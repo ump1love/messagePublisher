@@ -1,0 +1,17 @@
+
+Usage: MessagePublisher.exe [options]
+
+Options:
+  -s, --source <value>      Source identifier (default: 1)
+  -t, --type <value>        Message type: First | Second (default: Second)
+  -d, --data <value>        Size of the data array in bytes (default: 1024)
+  -f, --frequency <value>   Publishing frequency in messages per second (default: max possible)
+  -e, --exchange <value>    Name of the exchange to publish messages to
+  -c, --count <value>       Number of messages to publish (default: unlimited)
+  --help                    Display this help message
+  --version                 Display version information
+
+Examples:
+  MessagePublisher.exe -s 1 -t Second -d 1024 -e my-exchange -f 23
+  MessagePublisher.exe --source 1 --data 1024 --exchange my-exchange --frequency 23
+  MessagePublisher.exe my-exchange -f 23
