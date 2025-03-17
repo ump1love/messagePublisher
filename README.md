@@ -1,5 +1,5 @@
 # messagePublisher
-MessagePublish is a simple message broadcast tool that is the RabbitMQ message broker.
+MessagePublish is a simple message broadcast tool that uses RabbitMQ as a message broker.
 
 ## Installation
 ```bash
