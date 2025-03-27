@@ -3,28 +3,27 @@
   "WorkspaceRootPath": "D:\\codes\\c#\\Practice\\SimpleMessageApp\\MessagePublisher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CA4A795-82B1-45C3-8670-C6D29447B578}|MessagePublisher.csproj|d:\\codes\\c#\\practice\\simplemessageapp\\messagepublisher\\messagesend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CA4A795-82B1-45C3-8670-C6D29447B578}|MessagePublisher.csproj|solutionrelative:messagesend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CA4A795-82B1-45C3-8670-C6D29447B578}|MessagePublisher.csproj|d:\\codes\\c#\\practice\\simplemessageapp\\messagepublisher\\consoleoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA4A795-82B1-45C3-8670-C6D29447B578}|MessagePublisher.csproj|solutionrelative:consoleoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CA4A795-82B1-45C3-8670-C6D29447B578}|MessagePublisher.csproj|d:\\codes\\c#\\practice\\simplemessageapp\\messagepublisher\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CA4A795-82B1-45C3-8670-C6D29447B578}|MessagePublisher.csproj|solutionrelative:messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CA4A795-82B1-45C3-8670-C6D29447B578}|MessagePublisher.csproj|d:\\codes\\c#\\practice\\simplemessageapp\\messagepublisher\\argshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CA4A795-82B1-45C3-8670-C6D29447B578}|MessagePublisher.csproj|solutionrelative:argshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB7CEB5D-E92C-DFFD-4FFF-94A4F5343498}|..\\MessageReceive\\MessageReceive.csproj|d:\\codes\\c#\\practice\\simplemessageapp\\messagereceive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CA4A795-82B1-45C3-8670-C6D29447B578}|MessagePublisher.csproj|d:\\codes\\c#\\practice\\simplemessageapp\\messagepublisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CA4A795-82B1-45C3-8670-C6D29447B578}|MessagePublisher.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CA4A795-82B1-45C3-8670-C6D29447B578}|MessagePublisher.csproj|d:\\codes\\c#\\practice\\simplemessageapp\\messagepublisher\\consoleoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CA4A795-82B1-45C3-8670-C6D29447B578}|MessagePublisher.csproj|solutionrelative:consoleoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0CA4A795-82B1-45C3-8670-C6D29447B578}|MessagePublisher.csproj|d:\\codes\\c#\\practice\\simplemessageapp\\messagepublisher\\assets\\helpoutput.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{0CA4A795-82B1-45C3-8670-C6D29447B578}|MessagePublisher.csproj|solutionrelative:assets\\helpoutput.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA4A795-82B1-45C3-8670-C6D29447B578}|MessagePublisher.csproj|d:\\codes\\c#\\practice\\simplemessageapp\\messagepublisher\\messagesend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA4A795-82B1-45C3-8670-C6D29447B578}|MessagePublisher.csproj|solutionrelative:messagesend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA4A795-82B1-45C3-8670-C6D29447B578}|MessagePublisher.csproj|d:\\codes\\c#\\practice\\simplemessageapp\\messagepublisher\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA4A795-82B1-45C3-8670-C6D29447B578}|MessagePublisher.csproj|solutionrelative:messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 571,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +45,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\codes\\c#\\Practice\\SimpleMessageApp\\MessageReceive\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MessageReceive\\Program.cs",
+              "ToolTip": "D:\\codes\\c#\\Practice\\SimpleMessageApp\\MessageReceive\\Program.cs",
+              "RelativeToolTip": "..\\MessageReceive\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:12:48.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "helpOutput.txt",
               "DocumentMoniker": "D:\\codes\\c#\\Practice\\SimpleMessageApp\\MessagePublisher\\Assets\\helpOutput.txt",
               "RelativeDocumentMoniker": "Assets\\helpOutput.txt",
@@ -58,33 +69,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\codes\\c#\\Practice\\SimpleMessageApp\\MessagePublisher\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\codes\\c#\\Practice\\SimpleMessageApp\\MessagePublisher\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T20:17:29.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T20:17:29.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MessageSend.cs",
               "DocumentMoniker": "D:\\codes\\c#\\Practice\\SimpleMessageApp\\MessagePublisher\\MessageSend.cs",
               "RelativeDocumentMoniker": "MessageSend.cs",
               "ToolTip": "D:\\codes\\c#\\Practice\\SimpleMessageApp\\MessagePublisher\\MessageSend.cs",
               "RelativeToolTip": "MessageSend.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowFsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T20:17:28.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T20:17:28.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MessageHandler.cs",
               "DocumentMoniker": "D:\\codes\\c#\\Practice\\SimpleMessageApp\\MessagePublisher\\MessageHandler.cs",
               "RelativeDocumentMoniker": "MessageHandler.cs",
@@ -92,33 +101,19 @@
               "RelativeToolTip": "MessageHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T20:17:28.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T20:17:28.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ConsoleOutput.cs",
               "DocumentMoniker": "D:\\codes\\c#\\Practice\\SimpleMessageApp\\MessagePublisher\\ConsoleOutput.cs",
               "RelativeDocumentMoniker": "ConsoleOutput.cs",
               "ToolTip": "D:\\codes\\c#\\Practice\\SimpleMessageApp\\MessagePublisher\\ConsoleOutput.cs",
               "RelativeToolTip": "ConsoleOutput.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T20:17:27.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ArgsHandler.cs",
-              "DocumentMoniker": "D:\\codes\\c#\\Practice\\SimpleMessageApp\\MessagePublisher\\ArgsHandler.cs",
-              "RelativeDocumentMoniker": "ArgsHandler.cs",
-              "ToolTip": "D:\\codes\\c#\\Practice\\SimpleMessageApp\\MessagePublisher\\ArgsHandler.cs",
-              "RelativeToolTip": "ArgsHandler.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAADgvxsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T20:17:27Z",
               "EditorCaption": ""
             }
           ]

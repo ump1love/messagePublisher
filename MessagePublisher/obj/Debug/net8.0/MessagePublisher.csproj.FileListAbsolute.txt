@@ -18,3 +18,9 @@ D:\codes\c#\Practice\SimpleMessageApp\MessagePublisher\obj\Debug\net8.0\MessageP
 D:\codes\c#\Practice\SimpleMessageApp\MessagePublisher\obj\Debug\net8.0\MessagePublisher.genruntimeconfig.cache
 D:\codes\c#\Practice\SimpleMessageApp\MessagePublisher\obj\Debug\net8.0\ref\MessagePublisher.dll
 D:\codes\c#\Practice\SimpleMessageApp\MessagePublisher\bin\Debug\net8.0\Assets\helpOutput.txt
+D:\codes\c#\Practice\SimpleMessageApp\MessagePublisher\bin\Debug\net8.0\Spectre.Console.dll
+D:\codes\c#\Practice\SimpleMessageApp\MessagePublisher\bin\Debug\net8.0\Spectre.Console.Cli.dll
+D:\codes\c#\Practice\SimpleMessageApp\MessagePublisher\bin\Debug\net8.0\de\Spectre.Console.Cli.resources.dll
+D:\codes\c#\Practice\SimpleMessageApp\MessagePublisher\bin\Debug\net8.0\fr\Spectre.Console.Cli.resources.dll
+D:\codes\c#\Practice\SimpleMessageApp\MessagePublisher\bin\Debug\net8.0\sv\Spectre.Console.Cli.resources.dll
+D:\codes\c#\Practice\SimpleMessageApp\MessagePublisher\obj\Debug\net8.0\MessagePublisher.sourcelink.json

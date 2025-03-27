@@ -69,14 +69,17 @@ public class MessageSend
 					{
 						var message = messageHandler.GetMessage(COUNTER, messageBody, source, messageType, dataSize);
 						var body = Encoding.UTF8.GetBytes(message);
+
+						var messageStopwatch = Stopwatch.StartNew();
 						await channel.BasicPublishAsync(exchange: exchangeName, routingKey: string.Empty, body: body);
+						messageStopwatch.Stop();
 
 						COUNTER++;
 
 						task.Increment(1);
 
-						double elapsedSeconds = stopwatch.Elapsed.TotalSeconds;
-						double messagesPerSecond = (counterLoop + 1) / elapsedSeconds;
+						double elapsedMilliseconds = messageStopwatch.Elapsed.TotalMilliseconds;
+						double messagesPerSecond = 1000 / elapsedMilliseconds;
 						AnsiConsole.MarkupLine($"[yellow]Current Speed:[/] {messagesPerSecond:F2} messages/second");
 
 						// if speed is not set to default - add a delay
